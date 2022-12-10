@@ -1,0 +1,5 @@
+{
+  "PORT": 5000,
+  "SecretKeyJWT": "secretGymProject",
+  "mongoConnect": "mongodb+srv://owner:gymprojectpassword@cluster0.pfjphnv.mongodb.net/?retryWrites=true&w=majority"
+}
